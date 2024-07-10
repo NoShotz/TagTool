@@ -2,7 +2,7 @@ name: TagTool Build
 
 on:
   push:
-    branches: [ "mcc" ]
+    branches: [ "master" ]
 
 jobs:
   build:
